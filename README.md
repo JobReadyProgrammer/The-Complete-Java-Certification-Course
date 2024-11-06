@@ -23,15 +23,41 @@ Checkout our complete course on the following platforms:
 - This course assumes no prior java experience so  prior Java so it will take you from zero to hero!
 - I want this course to be the ultimate go-to resource for anyone that's looking to become a core Java programmer so I intend on adding more content to this course based on new technologies and student feedback.
 - The content is Java 9 ready which means I'll show you how to upgrade to the latest version of Java which is version 9 and I'll teach you how to configure Eclipse to work with both Java 8 as well as version 9.
-
-## Topics covered in this course :
-
 - The topics covered include Object Orientation which I think is not stressed enough in other Java courses so I've got special focus on that throughout the lectures.
 - You'll get plenty of practice writing classes and interfaces as well as countless methods with loops and if else statements, exception handling and file processing as well as how to debug software using Eclipse.
 - You'll also be mastering the collections framework and diving deep into java generics. You'll learn all there is to know about multi-threading and the JDBC API for working with a MySQL database.
 - There are also practical projects scattered throughout the course so that you can practice the concepts as you learn them.
 - For example one of the projects is related to a car dealership management system and another assignment involves processing files with stock market data.
 - So as you can see, I tried to keep the projects professional and industry relevant rather than cloning a game like flappy bird.
+
+## Topics covered in this course :
+
+- Variables
+- Data Types
+- Arrays
+- Control Flow
+- Methods
+- Classes
+- Objects
+- Program Flow
+- Class Inheritance
+- Interfaces
+- Abstract Classes
+- Strings
+- While & For Loops
+- Nested For Loops
+- Debugger
+- Building and Deploying Java Programs with JAR Files
+- File Processing
+- Collections Framework
+- Collection Methods
+- Hashcode, HashMap, LinkedHashMap and TreeMap
+- Java Generics
+- Threading
+- Java JDBC
+- JShell
+- Lambda Expressions
+- Streams API
 
 ### Contact us
 - Learn more: [jobreadyprogrammer.com](https://jobreadyprogrammer.com/)
